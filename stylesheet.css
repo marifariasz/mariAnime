@@ -1,0 +1,39 @@
+*{
+    font-family: poppins;
+    background-color: rgb(211,211,211);
+}
+header.headerClass {
+    display: flex;
+    justify-content: center;
+    min-width: 10px;
+    display: table-cell;
+    vertical-align: middle;
+}
+image{
+    display: flex;
+    justify-content: center;
+    
+}
+h1{
+    
+    background-position: center;
+    background-color: rgb(139,0,139);
+    color:whitesmoke;
+    font-style:initial;
+    text-align: center;
+    text-size-adjust: 30px;
+    font-family: poppins;
+}
+h2,h3,h4{
+    color: rgb(139,0,139);
+    font-size: 20px;
+    text-align: center; 
+}
+
+#tabela{
+    margin: 0 auto;
+    width: 40%; /* Valor da Largura */
+    }
+#titulo{
+    text-align: center;
+}
